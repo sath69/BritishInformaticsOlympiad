@@ -1,3 +1,4 @@
+#Rating of difficulty: 3/10, overall parts went smooth but it may seem like older papers looked way easier compared to now.
 def computeMayanCalendar(baktun, katun, tun, uinal, kin):
  days_dict = {
     1: "Saturday",
